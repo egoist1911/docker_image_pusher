@@ -1,4 +1,2 @@
 kibana:7.62
-elasticsearch:7.6.2
-logstash:7.6.2
 
