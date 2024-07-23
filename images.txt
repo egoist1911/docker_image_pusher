@@ -1,2 +1,2 @@
-kibana:7.62
+kibana:7.6.2
 
