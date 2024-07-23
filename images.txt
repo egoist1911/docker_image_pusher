@@ -1,1 +1,4 @@
-kong:3.6
+kibana:7.62
+elasticsearch:7.6.2
+logstash:7.6.2
+filebeats:7.62
