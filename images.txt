@@ -1,2 +1,2 @@
+filebeat:8.1.0
 
-filebeat:7.6.2
