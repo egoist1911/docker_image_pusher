@@ -1,2 +1,1 @@
-
-nacos/nacos-mysql:5.7
+registry.inspurcloud.cn/yueyangdome/ui:1.0.0
