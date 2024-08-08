@@ -1,1 +1,1 @@
-minio/minio:latest
+osixia/openldap:latest
