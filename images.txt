@@ -1,1 +1,2 @@
-rancher/rancher-agent:latest
+rancher/rancher-agent:v2.9-head
+
