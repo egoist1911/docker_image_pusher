@@ -1,1 +1,1 @@
-rancher/rancher-agent:stable
+rancher/rancher-agent:latest
