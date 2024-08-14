@@ -1,1 +1,1 @@
-rancher/local-path-provisioner:v0.0.24
+clougence/cloudcanal-mysql:4.2.1.0
