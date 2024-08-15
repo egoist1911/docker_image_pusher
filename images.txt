@@ -1,1 +1,1 @@
-clougence/cloudcanal-mysql:4.2.1.0
+jumpserver/jms_all:v2.1.2
