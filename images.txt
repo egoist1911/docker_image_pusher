@@ -1,1 +1,1 @@
-sonarqube:latest
+jenkins/jenkins:2.392-jdk11
